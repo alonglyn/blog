@@ -101,4 +101,5 @@
 ### 博主微信
 ![个人微信along_838.jpeg](/img/个人微信along_838.jpeg)
 ### 互联网知识学习交流 飞书群
+[互联网知识学习交流 飞书群](https://qkj5yux2b9.feishu.cn/invite/member/A5qpIhmi2JXqMZsS)二维码
 ![互联网知识学习交流 飞书群](/img/飞书学习群.png)

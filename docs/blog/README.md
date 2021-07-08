@@ -1,3 +1,3 @@
 # 技术博客
 ## 阅读
-[浅尝CSAPP](tech/csapp)
+[浅尝CSAPP](tech/csapp.html)

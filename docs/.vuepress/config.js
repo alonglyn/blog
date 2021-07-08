@@ -13,6 +13,7 @@ module.exports = {
                     {text: '博客仓库地址', link:'https://github.com/alonglyn/blog'},
                 ]
             }
-        ]
+        ],
+        sidebar:'auto',
     }
 }
